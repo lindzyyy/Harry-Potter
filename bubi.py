@@ -1,0 +1,1 @@
+print('bubi e mnogo hubav')
