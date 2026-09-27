@@ -1,1 +1,1 @@
-print('bubi e mnogo hubav')
+print('bubi e bubi')
